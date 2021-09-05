@@ -6325,8 +6325,8 @@ ig.module("game.entities.game-control")
                 }
                 else
                 {
-                    if (ig.input.mouse.x >= 213 && ig.input.mouse.x <= 297) {
-                        if (ig.input.mouse.y >= 162 && ig.input.mouse.y <= 208) {
+                    if (ig.input.mouse.x >= 202 && ig.input.mouse.x <= 305) {
+                        if (ig.input.mouse.y >= 149 && ig.input.mouse.y <= 219) {
                             ig.input.mouse.x = 0;
                             ig.input.mouse.y = 0;
                             if (this.isUnlockCell == 0) {
@@ -6805,8 +6805,8 @@ ig.module("game.entities.game-control")
                     }
                 }
                 else {
-                    if (ig.input.mouse.x >= 206 && ig.input.mouse.x <= 311) {
-                        if (ig.input.mouse.y >= 236 && ig.input.mouse.y <= 293) {
+                    if (ig.input.mouse.x >= 199 && ig.input.mouse.x <= 311) {
+                        if (ig.input.mouse.y >= 227 && ig.input.mouse.y <= 396) {
                             ig.input.mouse.x = 0;
                             ig.input.mouse.y = 0;
                             //this.isDragon2ndUnlock = 1;
@@ -7606,8 +7606,8 @@ ig.module("game.entities.game-control")
                     }
                 }
                 else {
-                    if (ig.input.mouse.x >= 198 && ig.input.mouse.x <= 292) {
-                        if (ig.input.mouse.y >= 157 && ig.input.mouse.y <= 213) {
+                    if (ig.input.mouse.x >= 191 && ig.input.mouse.x <= 299) {
+                        if (ig.input.mouse.y >= 147 && ig.input.mouse.y <= 222) {
                             ig.input.mouse.x = 0;
                             ig.input.mouse.y = 0;
                             this.boolUnlockEvolve = 0;
